@@ -1,4 +1,6 @@
-# MeshCuter
+![MeshCute WiFi Menu](images/meshcute.jpg)
+
+# MeshCute
 
 A multi-scanner tool for the **M5Stack Cardputer Adv** featuring Bluetooth Low Energy (BLE), WiFi, and LoRa packet scanning. The LoRa scanner operates in **receive-only mode** and is configured for Swiss radio regulations (BAKOM/OFCOM).
 
