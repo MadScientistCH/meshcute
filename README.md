@@ -1,4 +1,4 @@
-![MeshCute WiFi Menu](images/meshcute.jpg)
+![MeshCute WiFi Menu](images/meshcute.png)
 
 # MeshCute
 
